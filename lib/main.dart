@@ -134,7 +134,8 @@ class _MyProject extends State<MyProject> {
                 ),
                 Text(
                   result,
-                  style: const TextStyle(fontSize: 15, color: Colors.black),
+                  style: const TextStyle(
+                      fontSize: 15, color: Color.fromARGB(255, 44, 23, 23)),
                 )
               ],
             ),
